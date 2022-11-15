@@ -13,6 +13,10 @@ befoure loading mapBoxActivity give location Permission to the App.
 
 Smouth and quality Performance 
 
+**Donation**
+
+If this project help you reduce time to develop, you can give me a cup of coffee :)U+1F609	
+
 
 https://user-images.githubusercontent.com/97092169/201833183-1b282f03-2c65-4a0c-8d73-f441b1bbad55.mp4
 
