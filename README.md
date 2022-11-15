@@ -17,7 +17,6 @@ Smouth and quality Performance
 
 If this project help you reduce time to develop, you can give me a cup of coffee :)😉		
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](YOUR_EMAIL_CODE)
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](YOUR_EMAIL_CODE)
 
