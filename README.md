@@ -19,6 +19,8 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](YOUR_EMAIL_CODE)
 
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](YOUR_EMAIL_CODE)
+
 
 https://user-images.githubusercontent.com/97092169/201833183-1b282f03-2c65-4a0c-8d73-f441b1bbad55.mp4
 
