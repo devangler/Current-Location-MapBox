@@ -5,4 +5,4 @@ The Mapbox Search SDK is a developer toolkit to add location search on mobile de
 
 
 https://user-images.githubusercontent.com/97092169/201833183-1b282f03-2c65-4a0c-8d73-f441b1bbad55.mp4
-**This text will be bold**
+
