@@ -1,5 +1,6 @@
 # Current-Location
 The Mapbox Search SDK is a developer toolkit to add location search on mobile devices. With the same speed and scale of the Mapbox Search API, the SDK is built specifically for on-demand and local search use cases, like ride-share, food delivery, and store finders apps. Whether your users are trying to find a place among the vast amount of data on a global map, or to find the exact location of a venue a few miles down the road, the Search SDK provides location search for countries all over the globe, in many different languages.
+
 **This text will be bold**
 
 
